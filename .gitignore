@@ -1,0 +1,4 @@
+# ignoro las siguientes carpetas que se 
+# recrean con npm
+./node_modules
+node_modules/
